@@ -10,10 +10,11 @@ Welcome to the Android Projects folder within the **Mobile App Contribution** re
 4. Include a clear README.md in your folder to explain your project.
 5. Feel free to enhance existing Android apps with new features or improvements.
 6. If you encounter issues or have suggestions, create an issue for discussion.
-
+7. Make sure to use Kotlin , Java in your projects in your projects
+   
 ## Steps to Contribute
 
-Here's how you can contribute your Android project:
+Here's how you can contribute to your Android project:
 
 1. **Fork this repository**: Click the "Fork" button at the top-right to create your copy.
 
